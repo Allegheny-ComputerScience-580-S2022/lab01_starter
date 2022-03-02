@@ -24,7 +24,7 @@ In clear and meaningful language, please include the following in your tutorial;
 #### Writing
 
 
-In the `writing/report.md` document, please respond to the leading questions below concerning the resource. As you write your tutorial, you may decide that additional details ought to be addressed in the tutorial to inform and instruct the user (i.e., data, algorithms, implementation or similar) and in such cases, please proceed to address these avenues of discussion in your tutorial.
+In the `writing/tutorial.md` document, please respond to the leading questions below concerning the resource. As you write your tutorial, you may decide that additional details ought to be addressed in the tutorial to inform and instruct the user (i.e., data, algorithms, implementation or similar) and in such cases, please proceed to address these avenues of discussion in your tutorial.
 
 Note: To add screenshots to your work, please use the the following code;
 ```
